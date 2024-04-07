@@ -4,7 +4,7 @@
 
 - 🍻 Undergraduate at 🇨🇳 [ZJU](https://www.zju.edu.cn), major in Computer Science
 - ⚡ C++ / Python / Golang / Vue3
-- ✍️ Interested in AI / LLM / Personal Agent
+- ✍️ Research in AI / LLM / Personal Agent
 - 🏃 Body Building / Table Tennis / Cycling
 - 🥋 Basketball / football / Snooker
 
